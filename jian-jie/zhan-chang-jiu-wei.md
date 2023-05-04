@@ -4,7 +4,7 @@
 
 尽管关于流媒体大战的想法存在争议，但人们普遍认为它始于2019年。在那一年初，维亚康姆公司收购了最受欢迎的免费广告支持的流媒体（FAST）服务Pluto TV，迪士尼与康卡斯特达成协议，最迟在2024年完全拥有Hulu。九月，维亚康姆和CBS同意重新合并。在2019年11月1日苹果电视+（Apple TV+）上线后的16个月里，迪士尼+（Disney+）、Quibi、HBO Max和孔雀电视（Peacock）加入了战斗，而CBS全访问（CBS All Access）则作为合并后的ViacomCBS的主要订阅视频点播（SVOD）服务Paramount+重新推出。同时，第二大FAST服务及最大的独立流媒体公司Tubi被福克斯收购，而Roku也宣布将扩展至原创节目制作。
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 当然，有人可能会争辩说，这场战争早在2019年之前就开始了。HBO在2017年被Netflix超越之前是全球最大的订阅视频服务，它的D2C服务于2015年首次亮相。如今排名第二的流媒体服务Disney+在2017年就宣布了，并且在此之前已经有了幕后准备的迹象。正如我在2016年[所写的](https://web.archive.org/web/20200920013306/https:/redef.com/original/disney-as-a-service-why-disney-is-closer-than-ever-to-walts-60-year-old-vision)，迪士尼2013/2014年的电影和电视许可证与旧的交易有所不同。它们不仅期限短，而且都定在2018年和2019年到期。公司还开始推出一系列直接面向消费者的平台，如WatchABC（2013年）电视应用程序，以及DisneyLife（2015年），一个仅限于英国和菲律宾的SVOD服务，内容包括迪士尼精选电影、系列剧、迷你游戏、漫画和音乐。2016年，迪士尼还斥资10亿美元购买了BAMTech的三分之一股份，次年又花费16亿美元购买了额外42%的股份。2014年，20世纪福克斯为了获得在数字时代竞争所需的规模，曾出价800亿美元收购时代华纳，但未成功。三年后，鲁珀特·默多克决定通过将福克斯的大部分业务出售给迪士尼来退出即将到来的流媒体大战，迪士尼也认为，如果要繁荣发展，就需要扩大规模。时代华纳在前一年做出了同样的选择，将自己出售给AT\&T。Starz也是如此，将自己出售给了狮门影业。
 
@@ -14,11 +14,11 @@
 
 虽然微软为SVOD中的大型科技公司历史画上了句号，但它并非“备受关注但被遗忘”的参与者的最后一家。2010年，全球营收最高的公司沃尔玛收购了数字视频下载领域的早期领导者Vudu。2016年，沃尔玛的Vudu推出了一个免费的、支持广告的流媒体库——比Roku的Roku频道和亚马逊的Freevee早了几年。2018年，Vudu开始开发原创内容（与美国华谊合作，后者于2022年被亚马逊收购），并于2019年首次亮相。2020年，沃尔玛将Vudu卖给了NBC环球的Fandango。2015年1月，Overstock.com宣布计划在当年晚些时候推出自己的流ChatGPT 媒体服务，从3万部授权影片开始，但最终将扩展到原创内容。Overstock.com再也没有提到过这项服务。该公司的这次不成功的宣布显然是受到了亚马逊成功涉足该领域的启发，亚马逊在2011年推出了以流媒体为中心的亚马逊即时视频，并在同一时间开始制作原创节目。
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 尽管许多流媒体大战的参与者在2010年代初就加入了战场，但2019年底和2020年初的一系列发布和公告使得人们不禁觉得这场“战争”（如果存在的话）已经开始。战场已经设定，策略不再是在背景中进行，而是可以观察到的。事实上，这段时期的大多数新参与者都向投资者提供了详细的五年预测和路线图，包括订户预测、收入、利润、投资等。
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
 
 主要流媒体服务提供的预测使外界观察者能够衡量每家公司在实现这些目标方面的进展。三年后，我们应该这样做。
 
