@@ -26,3 +26,6 @@
 ## 🌊 第三浪潮：基于平台的竞争
 
 * [🎭 流媒体战争中必然的利润贫乏状况](di-san-lang-chao-ji-yu-ping-tai-de-jing-zheng/liu-mei-ti-zhan-zheng-zhong-bi-ran-de-li-run-pin-fa-zhuang-kuang.md)
+* [🤨 视频历史性的从内容到平台的转移](di-san-lang-chao-ji-yu-ping-tai-de-jing-zheng/shi-pin-li-shi-xing-de-cong-nei-rong-dao-ping-tai-de-zhuan-yi.md)
+* [⏱ 流媒体时代的内容到平台转变](di-san-lang-chao-ji-yu-ping-tai-de-jing-zheng/liu-mei-ti-shi-dai-de-nei-rong-dao-ping-tai-zhuan-bian.md)
+* [🌭 即将到来的平台转变](di-san-lang-chao-ji-yu-ping-tai-de-jing-zheng/ji-jiang-dao-lai-de-ping-tai-zhuan-bian.md)
